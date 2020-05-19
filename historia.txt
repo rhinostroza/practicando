@@ -17,3 +17,5 @@ TAmbien hablaremos de su vida
 Cambio de prueba
 
 PRueba 3
+
+PRueba rm -cached
