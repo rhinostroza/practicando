@@ -1,0 +1,2 @@
+# practicando
+Blog para Platzi
